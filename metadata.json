@@ -1,0 +1,7 @@
+{
+  "name": "LEGAL AI MENTOR",
+  "description": "Cố vấn học tập và định hướng nghề nghiệp luật chuyên nghiệp dành riêng cho sinh viên ngành Luật, tích hợp Google Chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
